@@ -4,7 +4,7 @@
         "architecture": "Zen 4",
         "family": "Ryzen 9",
         "model": "7950X",
-        "launch_price": "699$",
+        "launch_price": 699,
         "release_date": "2022-09-27"
     },
     {
@@ -12,7 +12,7 @@
         "architecture": "Zen 4",
         "family": "Ryzen 9",
         "model": "7900X",
-        "launch_price": "549$",
+        "launch_price": 549,
         "release_date": "2022-09-27"
     },
     {
@@ -20,7 +20,7 @@
         "architecture": "Zen 4",
         "family": "Ryzen 7",
         "model": "7700X",
-        "launch_price": "399$",
+        "launch_price": 399,
         "release_date": "2022-09-27"
     },
     {
@@ -28,7 +28,7 @@
         "architecture": "Zen 4",
         "family": "Ryzen 5",
         "model": "7600X",
-        "launch_price": "299$",
+        "launch_price": 299,
         "release_date": "2022-09-27"
     },
     {
@@ -36,7 +36,7 @@
         "architecture": "Zen 3",
         "family": "Ryzen 9",
         "model": "5950X",
-        "launch_price": "799$",
+        "launch_price": 799,
         "release_date": "2020-11-05"
     },
     {
@@ -44,7 +44,7 @@
         "architecture": "Zen 3",
         "family": "Ryzen 9",
         "model": "5900X",
-        "launch_price": "549$",
+        "launch_price": 549,
         "release_date": "2020-11-05"
     },
     {
@@ -52,7 +52,7 @@
         "architecture": "Zen 3",
         "family": "Ryzen 7",
         "model": "5800X3D",
-        "launch_price": "449$",
+        "launch_price": 449,
         "release_date": "2022-04-20"
     },
     {
@@ -60,7 +60,7 @@
         "architecture": "Zen 3",
         "family": "Ryzen 7",
         "model": "5800X",
-        "launch_price": "449$",
+        "launch_price": 449,
         "release_date": "2020-11-05"
     },
     {
@@ -68,7 +68,7 @@
         "architecture": "Zen 3",
         "family": "Ryzen 7",
         "model": "5700X",
-        "launch_price": "299$",
+        "launch_price": 299,
         "release_date": "2021-04-04"
     },
     {
@@ -76,7 +76,7 @@
         "architecture": "Zen 3",
         "family": "Ryzen 5",
         "model": "5600X",
-        "launch_price": "299$",
+        "launch_price": 299,
         "release_date": "2020-11-05"
     },
     {
@@ -84,7 +84,7 @@
         "architecture": "Zen 3",
         "family": "Ryzen 5",
         "model": "5600",
-        "launch_price": "199$",
+        "launch_price": 199,
         "release_date": "2022-04-04"
     },
     {
@@ -92,7 +92,7 @@
         "architecture": "Zen 3",
         "family": "Ryzen 5",
         "model": "5500",
-        "launch_price": "159$",
+        "launch_price": 159,
         "release_date": "2022-04-04"
     }
 ]

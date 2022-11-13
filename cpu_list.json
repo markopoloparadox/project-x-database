@@ -1,5 +1,6 @@
 [
     {
+        "id": 0,
         "manufacturer": "AMD",
         "architecture": "Zen 4",
         "family": "Ryzen 9",
@@ -8,6 +9,7 @@
         "release_date": "2022-09-27"
     },
     {
+        "id": 1,
         "manufacturer": "AMD",
         "architecture": "Zen 4",
         "family": "Ryzen 9",
@@ -16,6 +18,7 @@
         "release_date": "2022-09-27"
     },
     {
+        "id": 2,
         "manufacturer": "AMD",
         "architecture": "Zen 4",
         "family": "Ryzen 7",
@@ -24,6 +27,7 @@
         "release_date": "2022-09-27"
     },
     {
+        "id": 3,
         "manufacturer": "AMD",
         "architecture": "Zen 4",
         "family": "Ryzen 5",
@@ -32,6 +36,7 @@
         "release_date": "2022-09-27"
     },
     {
+        "id": 4,
         "manufacturer": "AMD",
         "architecture": "Zen 3",
         "family": "Ryzen 9",
@@ -40,6 +45,7 @@
         "release_date": "2020-11-05"
     },
     {
+        "id": 5,
         "manufacturer": "AMD",
         "architecture": "Zen 3",
         "family": "Ryzen 9",
@@ -48,6 +54,7 @@
         "release_date": "2020-11-05"
     },
     {
+        "id": 6,
         "manufacturer": "AMD",
         "architecture": "Zen 3",
         "family": "Ryzen 7",
@@ -56,6 +63,7 @@
         "release_date": "2022-04-20"
     },
     {
+        "id": 7,
         "manufacturer": "AMD",
         "architecture": "Zen 3",
         "family": "Ryzen 7",
@@ -64,6 +72,7 @@
         "release_date": "2020-11-05"
     },
     {
+        "id": 8,
         "manufacturer": "AMD",
         "architecture": "Zen 3",
         "family": "Ryzen 7",
@@ -72,6 +81,7 @@
         "release_date": "2021-04-04"
     },
     {
+        "id": 9,
         "manufacturer": "AMD",
         "architecture": "Zen 3",
         "family": "Ryzen 5",
@@ -80,6 +90,7 @@
         "release_date": "2020-11-05"
     },
     {
+        "id": 10,
         "manufacturer": "AMD",
         "architecture": "Zen 3",
         "family": "Ryzen 5",
@@ -88,6 +99,7 @@
         "release_date": "2022-04-04"
     },
     {
+        "id": 11,
         "manufacturer": "AMD",
         "architecture": "Zen 3",
         "family": "Ryzen 5",

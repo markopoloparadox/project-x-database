@@ -11,6 +11,10 @@
             "title": "CPU details",
             "type": "object",
             "properties": {
+                "id": {
+                    "type": "integer",
+                    "description": "ID of processor."
+                },
                 "manufacturer": {
                     "enum": [
                         "AMD",
@@ -64,16 +68,9 @@
             "title": "CPU price details",
             "type": "object",
             "properties": {
-                "manufacturer": {
-                    "enum": [
-                        "AMD",
-                        "Intel"
-                    ],
-                    "description": "Represents the CPU manufacturer. It can only be either AMD or Intel."
-                },
-                "model": {
-                    "type": "string",
-                    "description": "Represents the CPU model. Example: 7700X or 13700K."
+                "cpu_id": {
+                    "type": "integer",
+                    "description": "Database ID of processor."
                 },
                 "price": {
                     "type": "number",
